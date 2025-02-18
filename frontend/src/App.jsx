@@ -7,7 +7,9 @@ function App() {
 
   return (
     <>
-      
+      <div className='bg-gray-400 size-200 flex items-center justify-center'>
+        <div className='bg-white size-20'></div>
+      </div>
     </>
   )
 }
